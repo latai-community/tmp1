@@ -1,1 +1,2 @@
-david.dlps.txt
+Hola, Soy David Dlps de Colombia
+Quiero aprender AI - VibeCoding en particular
